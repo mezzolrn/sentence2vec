@@ -1,0 +1,462 @@
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       134
+           1       0.00      0.00      0.00        95
+           2       0.55      1.00      0.71       277
+
+   micro avg       0.55      0.55      0.55       506
+   macro avg       0.18      0.33      0.24       506
+weighted avg       0.30      0.55      0.39       506
+
+epoch: 1, dev loss: 6.787157, acc: 0.547431
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       134
+           1       0.00      0.00      0.00        95
+           2       0.55      1.00      0.71       277
+
+   micro avg       0.55      0.55      0.55       506
+   macro avg       0.18      0.33      0.24       506
+weighted avg       0.30      0.55      0.39       506
+
+epoch: 2, dev loss: 6.535187, acc: 0.547431
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       134
+           1       0.00      0.00      0.00        95
+           2       0.55      1.00      0.71       277
+
+   micro avg       0.55      0.55      0.55       506
+   macro avg       0.18      0.33      0.24       506
+weighted avg       0.30      0.55      0.39       506
+
+epoch: 3, dev loss: 3.956241, acc: 0.547431
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       134
+           1       0.00      0.00      0.00        95
+           2       0.55      1.00      0.71       277
+
+   micro avg       0.55      0.55      0.55       506
+   macro avg       0.18      0.33      0.24       506
+weighted avg       0.30      0.55      0.39       506
+
+epoch: 4, dev loss: 3.196608, acc: 0.547431
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       134
+           1       0.00      0.00      0.00        95
+           2       0.55      1.00      0.71       277
+
+   micro avg       0.55      0.55      0.55       506
+   macro avg       0.18      0.33      0.24       506
+weighted avg       0.30      0.55      0.39       506
+
+epoch: 5, dev loss: 2.534366, acc: 0.547431
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       134
+           1       0.00      0.00      0.00        95
+           2       0.55      1.00      0.71       277
+
+   micro avg       0.55      0.55      0.55       506
+   macro avg       0.18      0.33      0.24       506
+weighted avg       0.30      0.55      0.39       506
+
+epoch: 6, dev loss: 2.385965, acc: 0.547431
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       134
+           1       0.00      0.00      0.00        95
+           2       0.55      1.00      0.71       277
+
+   micro avg       0.55      0.55      0.55       506
+   macro avg       0.18      0.33      0.24       506
+weighted avg       0.30      0.55      0.39       506
+
+testing model, dev loss: 2.386044, acc: 0.547431
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       134
+           1       0.00      0.00      0.00        95
+           2       0.55      1.00      0.71       277
+
+   micro avg       0.55      0.55      0.55       506
+   macro avg       0.18      0.33      0.24       506
+weighted avg       0.30      0.55      0.39       506
+
+epoch: 1, dev loss: 6.358484, acc: 0.547431
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       134
+           1       0.00      0.00      0.00        95
+           2       0.55      1.00      0.71       277
+
+   micro avg       0.55      0.55      0.55       506
+   macro avg       0.18      0.33      0.24       506
+weighted avg       0.30      0.55      0.39       506
+
+epoch: 2, dev loss: 7.112340, acc: 0.547431
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       134
+           1       0.00      0.00      0.00        95
+           2       0.55      1.00      0.71       277
+
+   micro avg       0.55      0.55      0.55       506
+   macro avg       0.18      0.33      0.24       506
+weighted avg       0.30      0.55      0.39       506
+
+epoch: 3, dev loss: 4.182889, acc: 0.547431
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       134
+           1       0.00      0.00      0.00        95
+           2       0.55      1.00      0.71       277
+
+   micro avg       0.55      0.55      0.55       506
+   macro avg       0.18      0.33      0.24       506
+weighted avg       0.30      0.55      0.39       506
+
+epoch: 4, dev loss: 3.977134, acc: 0.547431
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       134
+           1       0.00      0.00      0.00        95
+           2       0.55      1.00      0.71       277
+
+   micro avg       0.55      0.55      0.55       506
+   macro avg       0.18      0.33      0.24       506
+weighted avg       0.30      0.55      0.39       506
+
+epoch: 5, dev loss: 4.040870, acc: 0.547431
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       134
+           1       0.00      0.00      0.00        95
+           2       0.55      1.00      0.71       277
+
+   micro avg       0.55      0.55      0.55       506
+   macro avg       0.18      0.33      0.24       506
+weighted avg       0.30      0.55      0.39       506
+
+epoch: 6, dev loss: 2.796263, acc: 0.547431
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       134
+           1       0.00      0.00      0.00        95
+           2       0.55      1.00      0.71       277
+
+   micro avg       0.55      0.55      0.55       506
+   macro avg       0.18      0.33      0.24       506
+weighted avg       0.30      0.55      0.39       506
+
+epoch: 7, dev loss: 2.652674, acc: 0.547431
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       134
+           1       0.00      0.00      0.00        95
+           2       0.55      1.00      0.71       277
+
+   micro avg       0.55      0.55      0.55       506
+   macro avg       0.18      0.33      0.24       506
+weighted avg       0.30      0.55      0.39       506
+
+epoch: 8, dev loss: 2.729384, acc: 0.547431
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       134
+           1       0.00      0.00      0.00        95
+           2       0.55      1.00      0.71       277
+
+   micro avg       0.55      0.55      0.55       506
+   macro avg       0.18      0.33      0.24       506
+weighted avg       0.30      0.55      0.39       506
+
+epoch: 9, dev loss: 2.323163, acc: 0.547431
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       134
+           1       0.00      0.00      0.00        95
+           2       0.55      1.00      0.71       277
+
+   micro avg       0.55      0.55      0.55       506
+   macro avg       0.18      0.33      0.24       506
+weighted avg       0.30      0.55      0.39       506
+
+epoch: 10, dev loss: 2.096606, acc: 0.547431
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       134
+           1       0.00      0.00      0.00        95
+           2       0.55      1.00      0.71       277
+
+   micro avg       0.55      0.55      0.55       506
+   macro avg       0.18      0.33      0.24       506
+weighted avg       0.30      0.55      0.39       506
+
+epoch: 11, dev loss: 2.028771, acc: 0.547431
+              precision    recall  f1-score   support
+
+           0       0.47      0.25      0.33       134
+           1       0.18      0.79      0.29        95
+           2       0.57      0.01      0.03       277
+
+   micro avg       0.22      0.22      0.22       506
+   macro avg       0.40      0.35      0.21       506
+weighted avg       0.47      0.22      0.16       506
+
+epoch: 1, dev loss: 1.120656, acc: 0.223320
+              precision    recall  f1-score   support
+
+           0       0.44      0.13      0.20       134
+           1       0.21      0.07      0.11        95
+           2       0.59      0.92      0.72       277
+
+   micro avg       0.55      0.55      0.55       506
+   macro avg       0.41      0.37      0.34       506
+weighted avg       0.48      0.55      0.47       506
+
+epoch: 2, dev loss: 0.991524, acc: 0.551383
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       134
+           1       0.22      0.71      0.33        95
+           2       0.81      0.58      0.67       277
+
+   micro avg       0.45      0.45      0.45       506
+   macro avg       0.34      0.43      0.34       506
+weighted avg       0.48      0.45      0.43       506
+
+epoch: 3, dev loss: 0.968839, acc: 0.448617
+              precision    recall  f1-score   support
+
+           0       0.55      0.35      0.43       134
+           1       0.18      0.32      0.23        95
+           2       0.77      0.71      0.74       277
+
+   micro avg       0.54      0.54      0.54       506
+   macro avg       0.50      0.46      0.47       506
+weighted avg       0.60      0.54      0.56       506
+
+epoch: 4, dev loss: 0.923187, acc: 0.539526
+              precision    recall  f1-score   support
+
+           0       0.45      0.73      0.56       134
+           1       0.09      0.04      0.06        95
+           2       0.71      0.62      0.66       277
+
+   micro avg       0.54      0.54      0.54       506
+   macro avg       0.42      0.46      0.43       506
+weighted avg       0.52      0.54      0.52       506
+
+epoch: 5, dev loss: 1.047389, acc: 0.541502
+              precision    recall  f1-score   support
+
+           0       0.52      0.69      0.59       134
+           1       0.12      0.05      0.07        95
+           2       0.73      0.77      0.75       277
+
+   micro avg       0.61      0.61      0.61       506
+   macro avg       0.46      0.50      0.47       506
+weighted avg       0.56      0.61      0.58       506
+
+epoch: 6, dev loss: 0.938484, acc: 0.610672
+              precision    recall  f1-score   support
+
+           0       0.56      0.60      0.58       134
+           1       0.23      0.07      0.11        95
+           2       0.72      0.87      0.79       277
+
+   micro avg       0.65      0.65      0.65       506
+   macro avg       0.51      0.51      0.49       506
+weighted avg       0.59      0.65      0.60       506
+
+epoch: 7, dev loss: 0.877998, acc: 0.646245
+              precision    recall  f1-score   support
+
+           0       0.57      0.59      0.58       134
+           1       0.28      0.09      0.14        95
+           2       0.72      0.87      0.79       277
+
+   micro avg       0.65      0.65      0.65       506
+   macro avg       0.52      0.52      0.50       506
+weighted avg       0.60      0.65      0.61       506
+
+epoch: 8, dev loss: 0.885119, acc: 0.652174
+              precision    recall  f1-score   support
+
+           0       0.55      0.63      0.59       134
+           1       0.12      0.02      0.04        95
+           2       0.72      0.87      0.79       277
+
+   micro avg       0.65      0.65      0.65       506
+   macro avg       0.46      0.51      0.47       506
+weighted avg       0.56      0.65      0.59       506
+
+epoch: 9, dev loss: 0.881283, acc: 0.646245
+              precision    recall  f1-score   support
+
+           0       0.55      0.63      0.59       134
+           1       0.13      0.02      0.04        95
+           2       0.71      0.87      0.79       277
+
+   micro avg       0.65      0.65      0.65       506
+   macro avg       0.47      0.51      0.47       506
+weighted avg       0.56      0.65      0.59       506
+
+epoch: 10, dev loss: 0.878130, acc: 0.648221
+              precision    recall  f1-score   support
+
+           0       0.55      0.63      0.59       134
+           1       0.13      0.02      0.04        95
+           2       0.71      0.87      0.79       277
+
+   micro avg       0.65      0.65      0.65       506
+   macro avg       0.47      0.51      0.47       506
+weighted avg       0.56      0.65      0.59       506
+
+epoch: 11, dev loss: 0.876706, acc: 0.648221
+              precision    recall  f1-score   support
+
+           0       0.55      0.63      0.59       134
+           1       0.13      0.02      0.04        95
+           2       0.71      0.87      0.79       277
+
+   micro avg       0.65      0.65      0.65       506
+   macro avg       0.47      0.51      0.47       506
+weighted avg       0.56      0.65      0.59       506
+
+epoch: 12, dev loss: 0.876274, acc: 0.648221
+              precision    recall  f1-score   support
+
+           0       0.55      0.63      0.59       134
+           1       0.14      0.02      0.04        95
+           2       0.71      0.88      0.79       277
+
+   micro avg       0.65      0.65      0.65       506
+   macro avg       0.47      0.51      0.47       506
+weighted avg       0.56      0.65      0.59       506
+
+epoch: 13, dev loss: 0.876016, acc: 0.650198
+              precision    recall  f1-score   support
+
+           0       0.56      0.63      0.59       134
+           1       0.12      0.02      0.04        95
+           2       0.71      0.87      0.79       277
+
+   micro avg       0.65      0.65      0.65       506
+   macro avg       0.47      0.51      0.47       506
+weighted avg       0.56      0.65      0.59       506
+
+epoch: 14, dev loss: 0.877752, acc: 0.648221
+              precision    recall  f1-score   support
+
+           0       0.56      0.63      0.59       134
+           1       0.12      0.02      0.04        95
+           2       0.71      0.87      0.79       277
+
+   micro avg       0.65      0.65      0.65       506
+   macro avg       0.47      0.51      0.47       506
+weighted avg       0.56      0.65      0.59       506
+
+epoch: 15, dev loss: 0.877713, acc: 0.648221
+              precision    recall  f1-score   support
+
+           0       0.56      0.63      0.59       134
+           1       0.12      0.02      0.04        95
+           2       0.71      0.87      0.79       277
+
+   micro avg       0.65      0.65      0.65       506
+   macro avg       0.47      0.51      0.47       506
+weighted avg       0.56      0.65      0.59       506
+
+epoch: 16, dev loss: 0.877667, acc: 0.648221
+              precision    recall  f1-score   support
+
+           0       0.56      0.63      0.59       134
+           1       0.12      0.02      0.04        95
+           2       0.71      0.87      0.79       277
+
+   micro avg       0.65      0.65      0.65       506
+   macro avg       0.47      0.51      0.47       506
+weighted avg       0.56      0.65      0.59       506
+
+epoch: 17, dev loss: 0.877669, acc: 0.648221
+              precision    recall  f1-score   support
+
+           0       0.56      0.63      0.59       134
+           1       0.12      0.02      0.04        95
+           2       0.71      0.87      0.79       277
+
+   micro avg       0.65      0.65      0.65       506
+   macro avg       0.47      0.51      0.47       506
+weighted avg       0.56      0.65      0.59       506
+
+epoch: 18, dev loss: 0.877669, acc: 0.648221
+              precision    recall  f1-score   support
+
+           0       0.56      0.63      0.59       134
+           1       0.12      0.02      0.04        95
+           2       0.71      0.87      0.79       277
+
+   micro avg       0.65      0.65      0.65       506
+   macro avg       0.47      0.51      0.47       506
+weighted avg       0.56      0.65      0.59       506
+
+epoch: 19, dev loss: 0.877669, acc: 0.648221
+              precision    recall  f1-score   support
+
+           0       0.56      0.63      0.59       134
+           1       0.12      0.02      0.04        95
+           2       0.71      0.87      0.79       277
+
+   micro avg       0.65      0.65      0.65       506
+   macro avg       0.47      0.51      0.47       506
+weighted avg       0.56      0.65      0.59       506
+
+epoch: 20, dev loss: 0.877669, acc: 0.648221
+              precision    recall  f1-score   support
+
+           0       0.56      0.63      0.59       134
+           1       0.12      0.02      0.04        95
+           2       0.71      0.87      0.79       277
+
+   micro avg       0.65      0.65      0.65       506
+   macro avg       0.47      0.51      0.47       506
+weighted avg       0.56      0.65      0.59       506
+
+epoch: 21, dev loss: 0.877669, acc: 0.648221
+              precision    recall  f1-score   support
+
+           0       0.56      0.63      0.59       134
+           1       0.12      0.02      0.04        95
+           2       0.71      0.87      0.79       277
+
+   micro avg       0.65      0.65      0.65       506
+   macro avg       0.47      0.51      0.47       506
+weighted avg       0.56      0.65      0.59       506
+
+epoch: 22, dev loss: 0.877669, acc: 0.648221
+              precision    recall  f1-score   support
+
+           0       0.56      0.63      0.59       134
+           1       0.12      0.02      0.04        95
+           2       0.71      0.87      0.79       277
+
+   micro avg       0.65      0.65      0.65       506
+   macro avg       0.47      0.51      0.47       506
+weighted avg       0.56      0.65      0.59       506
+
+epoch: 23, dev loss: 0.877669, acc: 0.648221
+              precision    recall  f1-score   support
+
+           0       0.58      0.75      0.65       134
+           1       0.20      0.01      0.02        95
+           2       0.74      0.88      0.81       277
+
+   micro avg       0.68      0.68      0.68       506
+   macro avg       0.51      0.55      0.49       506
+weighted avg       0.60      0.68      0.62       506
+
+testing model, dev loss: 0.850331, acc: 0.683794
